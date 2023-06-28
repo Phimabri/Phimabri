@@ -1,5 +1,12 @@
-### Hi there 👋
+Hello everyone 🤠
 
+I am a french student at ENSAE | Institut Polytechnique de Paris
+
+🎓 I graduated from Paris-Saclay University with a double degree in computer Science and Mathematics
+
+☄️ I am currently learning Statistics and economics 
+
+🤖 I love to work on AI
 <!--
 **Phimabri/Phimabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
