@@ -1,12 +1,8 @@
 Hello everyone 🤠
 
-I am a french student at ENSAE | Institut Polytechnique de Paris
+I am a french student currently studying at Oxford
 
-🎓 I graduated from Paris-Saclay University with a double degree in computer Science and Mathematics
-
-☄️ I am currently learning Statistics and economics 
-
-🤖 I love to work on AI
+☄I am currently learning Statistics and economics and my interests are applying stats/ML to various domain.
 <!--
 **Phimabri/Phimabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
