@@ -1,8 +1,4 @@
-Hello everyone 🤠
-
-I am a french student currently studying at Oxford
-
-☄I am currently learning Statistics and economics and my interests are applying stats/ML to various domain.
+Stats & ML · ENSAE Paris, Oxford · https://phimabri.github.io
 <!--
 **Phimabri/Phimabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
